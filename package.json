@@ -1,0 +1,9 @@
+{
+    "name": "com.dropecho.layered_sounds",
+    "version": "0.1.0",
+    "displayName": "Dropecho Layered Sound Manager",
+    "description": "A manager for playing clips, sfx randomly.",
+    "author": "Dropecho <vantreeseba@gmail.com>",
+    "repository": "github:dropecho/unity_layered_sounds",
+    "license": "MIT"
+}
