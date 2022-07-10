@@ -2,6 +2,7 @@
     "name": "com.dropecho.layered_sounds.editor",
     "rootNamespace": "",
     "references": [
+        "com.dropecho.layered_sounds"
     ],
     "includePlatforms": [
         "Editor"
